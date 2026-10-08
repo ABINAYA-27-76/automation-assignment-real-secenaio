@@ -318,5 +318,9 @@ driver.quit()
 ### Output
 <img width="1617" height="937" alt="Screenshot 2026-10-08 120204" src="https://github.com/user-attachments/assets/8d2f1054-3f2b-4326-9340-e471fca6a9ca" />
 <img width="1322" height="900" alt="Screenshot 2026-10-08 120210" src="https://github.com/user-attachments/assets/ffff512a-c30f-4aa5-8c7b-9ae8cfd72528" />
+
+
+### vs code 
+
 <img width="1221" height="945" alt="image" src="https://github.com/user-attachments/assets/18783e5f-5b9a-4310-ba16-23c33c383c97" />
 
